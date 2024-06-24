@@ -2,1231 +2,1478 @@
   {
     "flag": "AF",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Flag_of_Afghanistan_%282013%E2%80%932021%29.svg/22px-Flag_of_Afghanistan_%282013%E2%80%932021%29.svg.png",
-    "name": "Afganistan"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Afganistan"
   },
   {
     "flag": "ZA",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/22px-Flag_of_South_Africa.svg.png",
-    "name": "Afrika Selatan"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Afrika Selatan"
   },
   {
     "flag": "CF",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Central_African_Republic.svg/22px-Flag_of_the_Central_African_Republic.svg.png",
-    "name": "Afrika Tengah"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Afrika Tengah"
   },
   {
     "flag": "AX",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Flag_of_%C3%85land.svg/22px-Flag_of_%C3%85land.svg.png",
-    "name": "Åland"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Åland"
   },
   {
     "flag": "AL",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/22px-Flag_of_Albania.svg.png",
-    "name": "Albania"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Albania"
   },
   {
     "flag": "DZ",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/22px-Flag_of_Algeria.svg.png",
-    "name": "Aljazair"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Aljazair"
   },
   {
     "flag": "US",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/22px-Flag_of_the_United_States.svg.png",
-    "name": "Amerika Serikat"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Amerika Serikat"
   },
   {
     "flag": "AD",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/22px-Flag_of_Andorra.svg.png",
-    "name": "Andorra"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Andorra"
   },
   {
     "flag": "AO",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/22px-Flag_of_Angola.svg.png",
-    "name": "Angola"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Angola"
   },
   {
     "flag": "AI",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Anguilla.svg/22px-Flag_of_Anguilla.svg.png",
-    "name": "Anguilla"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Anguilla"
   },
   {
     "flag": "AQ",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Proposed_flag_of_Antarctica_%28Graham_Bartram%29.svg/22px-Proposed_flag_of_Antarctica_%28Graham_Bartram%29.svg.png",
-    "name": "Antarktika"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Antarktika"
   },
   {
     "flag": "AG",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Antigua_and_Barbuda.svg/22px-Flag_of_Antigua_and_Barbuda.svg.png",
-    "name": "Antigua dan Barbuda"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Antigua dan Barbuda"
   },
   {
     "flag": "AN",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_Netherlands_Antilles_%281986%E2%80%932010%29.svg/22px-Flag_of_the_Netherlands_Antilles_%281986%E2%80%932010%29.svg.png",
-    "name": "Antillen Belanda"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Antillen Belanda"
   },
   {
     "flag": "SA",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/22px-Flag_of_Saudi_Arabia.svg.png",
-    "name": "Arab Saudi"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Arab Saudi"
   },
   {
     "flag": "AR",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/22px-Flag_of_Argentina.svg.png",
-    "name": "Argentina"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Argentina"
   },
   {
     "flag": "AM",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/22px-Flag_of_Armenia.svg.png",
-    "name": "Armenia"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Armenia"
   },
   {
     "flag": "AW",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Aruba.svg/22px-Flag_of_Aruba.svg.png",
-    "name": "Aruba"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Aruba"
   },
   {
     "flag": "AU",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/22px-Flag_of_Australia.svg.png",
-    "name": "Australia"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Australia"
   },
   {
     "flag": "AT",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/22px-Flag_of_Austria.svg.png",
-    "name": "Austria"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Austria"
   },
   {
     "flag": "AZ",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/22px-Flag_of_Azerbaijan.svg.png",
-    "name": "Azerbaijan"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Azerbaijan"
   },
   {
     "flag": "BS",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/22px-Flag_of_the_Bahamas.svg.png",
-    "name": "Bahama"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Bahama"
   },
   {
     "flag": "BH",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/22px-Flag_of_Bahrain.svg.png",
-    "name": "Bahrain"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Bahrain"
   },
   {
     "flag": "BD",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/22px-Flag_of_Bangladesh.svg.png",
-    "name": "Bangladesh"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Bangladesh"
   },
   {
     "flag": "BB",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/22px-Flag_of_Barbados.svg.png",
-    "name": "Barbados"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Barbados"
   },
   {
     "flag": "NL",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/22px-Flag_of_the_Netherlands.svg.png",
-    "name": "Belanda"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Belanda"
   },
   {
     "flag": "BY",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/22px-Flag_of_Belarus.svg.png",
-    "name": "Belarus"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Belarus"
   },
   {
     "flag": "BE",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/22px-Flag_of_Belgium_%28civil%29.svg.png",
-    "name": "Belgia"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Belgia"
   },
   {
     "flag": "BZ",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_of_Belize.svg/22px-Flag_of_Belize.svg.png",
-    "name": "Belize"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Belize"
   },
   {
     "flag": "BJ",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/22px-Flag_of_Benin.svg.png",
-    "name": "Benin"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Benin"
   },
   {
     "flag": "BM",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bermuda.svg/22px-Flag_of_Bermuda.svg.png",
-    "name": "Bermuda"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Bermuda"
   },
   {
     "flag": "BT",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flag_of_Bhutan.svg/22px-Flag_of_Bhutan.svg.png",
-    "name": "Bhutan"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Bhutan"
   },
   {
     "flag": "BO",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/22px-Flag_of_Bolivia.svg.png",
-    "name": "Bolivia"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Bolivia"
   },
   {
     "flag": "BA",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/22px-Flag_of_Bosnia_and_Herzegovina.svg.png",
-    "name": "Bosnia dan Herzegovina"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Bosnia dan Herzegovina"
   },
   {
     "flag": "BW",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/22px-Flag_of_Botswana.svg.png",
-    "name": "Botswana"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Botswana"
   },
   {
     "flag": "BV",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/22px-Flag_of_Norway.svg.png",
-    "name": "Bouvet"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Bouvet"
   },
   {
     "flag": "BR",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
-    "name": "Brasil"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Brasil"
   },
   {
     "flag": "GB",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/22px-Flag_of_the_United_Kingdom.svg.png",
-    "name": "Britania Raya"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Britania Raya"
   },
   {
     "flag": "BN",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Brunei.svg/22px-Flag_of_Brunei.svg.png",
-    "name": "Brunei"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Brunei"
   },
   {
     "flag": "BG",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/22px-Flag_of_Bulgaria.svg.png",
-    "name": "Bulgaria"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Bulgaria"
   },
   {
     "flag": "BF",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/22px-Flag_of_Burkina_Faso.svg.png",
-    "name": "Burkina Faso"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Burkina Faso"
   },
   {
     "flag": "BI",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Burundi.svg/22px-Flag_of_Burundi.svg.png",
-    "name": "Burundi"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Burundi"
   },
   {
     "flag": "KY",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_the_Cayman_Islands.svg/22px-Flag_of_the_Cayman_Islands.svg.png",
-    "name": "Cayman"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Cayman"
   },
   {
     "flag": "TD",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Chad.svg/22px-Flag_of_Chad.svg.png",
-    "name": "Chad"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Chad"
   },
   {
     "flag": "CZ",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/22px-Flag_of_the_Czech_Republic.svg.png",
-    "name": "Ceko"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Ceko"
   },
   {
     "flag": "CL",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/22px-Flag_of_Chile.svg.png",
-    "name": "Chili"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Chili"
   },
   {
     "flag": "CC",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_the_Cocos_%28Keeling%29_Islands.svg/22px-Flag_of_the_Cocos_%28Keeling%29_Islands.svg.png",
-    "name": "Cocos (Keeling)"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Cocos (Keeling)"
   },
   {
     "flag": "CK",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_the_Cook_Islands.svg/22px-Flag_of_the_Cook_Islands.svg.png",
-    "name": "Cook"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Cook"
   },
   {
     "flag": "DK",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/22px-Flag_of_Denmark.svg.png",
-    "name": "Denmark"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Denmark"
   },
   {
     "flag": "DJ",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_Djibouti.svg/22px-Flag_of_Djibouti.svg.png",
-    "name": "Djibouti"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Djibouti"
   },
   {
     "flag": "DM",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_Dominica.svg/22px-Flag_of_Dominica.svg.png",
-    "name": "Dominika"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Dominika"
   },
   {
     "flag": "DO",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/22px-Flag_of_the_Dominican_Republic.svg.png",
-    "name": "Dominika"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Dominika"
   },
   {
     "flag": "EC",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/22px-Flag_of_Ecuador.svg.png",
-    "name": "Ekuador"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Ekuador"
   },
   {
     "flag": "SV",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/22px-Flag_of_El_Salvador.svg.png",
-    "name": "El Salvador"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "El Salvador"
   },
   {
     "flag": "ER",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Eritrea.svg/22px-Flag_of_Eritrea.svg.png",
-    "name": "Eritrea"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Eritrea"
   },
   {
     "flag": "EE",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/22px-Flag_of_Estonia.svg.png",
-    "name": "Estonia"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Estonia"
   },
   {
     "flag": "SZ",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_Eswatini.svg/22px-Flag_of_Eswatini.svg.png",
-    "name": "Eswatini"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Eswatini"
   },
   {
     "flag": "ET",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/22px-Flag_of_Ethiopia.svg.png",
-    "name": "Ethiopia"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Ethiopia"
   },
   {
     "flag": "FK",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_Falkland_Islands.svg/22px-Flag_of_the_Falkland_Islands.svg.png",
-    "name": "Falkland"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Falkland"
   },
   {
     "flag": "FO",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flag_of_the_Faroe_Islands.svg/22px-Flag_of_the_Faroe_Islands.svg.png",
-    "name": "Faroe"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Faroe"
   },
   {
     "flag": "FJ",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/22px-Flag_of_Fiji.svg.png",
-    "name": "Fiji"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Fiji"
   },
   {
     "flag": "PH",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/22px-Flag_of_the_Philippines.svg.png",
-    "name": "Filipina"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Filipina"
   },
   {
     "flag": "FI",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/22px-Flag_of_Finland.svg.png",
-    "name": "Finlandia"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Finlandia"
   },
   {
     "flag": "GA",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/22px-Flag_of_Gabon.svg.png",
-    "name": "Gabon"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Gabon"
   },
   {
     "flag": "GM",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_The_Gambia.svg/22px-Flag_of_The_Gambia.svg.png",
-    "name": "Gambia"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Gambia"
   },
   {
     "flag": "GE",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/22px-Flag_of_Georgia.svg.png",
-    "name": "Georgia"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Georgia"
   },
   {
     "flag": "GS",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_South_Georgia_and_the_South_Sandwich_Islands.svg/22px-Flag_of_South_Georgia_and_the_South_Sandwich_Islands.svg.png",
-    "name": "Georgia Selatan dan Kepulauan Sandwich Selatan"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Georgia Selatan dan Kepulauan Sandwich Selatan"
   },
   {
     "flag": "GH",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/22px-Flag_of_Ghana.svg.png",
-    "name": "Ghana"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Ghana"
   },
   {
     "flag": "GI",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flag_of_Gibraltar.svg/22px-Flag_of_Gibraltar.svg.png",
-    "name": "Gibraltar"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Gibraltar"
   },
   {
     "flag": "GL",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_Greenland.svg/22px-Flag_of_Greenland.svg.png",
-    "name": "Greenland"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Greenland"
   },
   {
     "flag": "GD",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Grenada.svg/22px-Flag_of_Grenada.svg.png",
-    "name": "Grenada"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Grenada"
   },
   {
     "flag": "GP",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/22px-Flag_of_France.svg.png",
-    "name": "Guadeloupe"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Guadeloupe"
   },
   {
     "flag": "GU",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Flag_of_Guam.svg/22px-Flag_of_Guam.svg.png",
-    "name": "Guam"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Guam"
   },
   {
     "flag": "GT",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/22px-Flag_of_Guatemala.svg.png",
-    "name": "Guatemala"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Guatemala"
   },
   {
     "flag": "GG",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Guernsey.svg/22px-Flag_of_Guernsey.svg.png",
-    "name": "Guernsey"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Guernsey"
   },
   {
     "flag": "GN",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Guinea.svg/22px-Flag_of_Guinea.svg.png",
-    "name": "Guinea"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Guinea"
   },
   {
     "flag": "GW",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/22px-Flag_of_Guinea-Bissau.svg.png",
-    "name": "Guinea-Bissau"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Guinea-Bissau"
   },
   {
     "flag": "GQ",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/22px-Flag_of_Equatorial_Guinea.svg.png",
-    "name": "Guinea Khatulistiwa"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Guinea Khatulistiwa"
   },
   {
     "flag": "GY",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/22px-Flag_of_Guyana.svg.png",
-    "name": "Guyana"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Guyana"
   },
   {
     "flag": "GF",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/22px-Flag_of_France.svg.png",
-    "name": "Guyana Prancis"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Guyana Prancis"
   },
   {
     "flag": "HT",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/22px-Flag_of_Haiti.svg.png",
-    "name": "Haiti"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Haiti"
   },
   {
     "flag": "HM",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/22px-Flag_of_Australia.svg.png",
-    "name": "Heard dan Kepulauan McDonald"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Heard dan Kepulauan McDonald"
   },
   {
     "flag": "HN",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Honduras_%282008_Olympics%29.svg/22px-Flag_of_Honduras_%282008_Olympics%29.svg.png",
-    "name": "Honduras"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Honduras"
   },
   {
     "flag": "HK",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/22px-Flag_of_Hong_Kong.svg.png",
-    "name": "Hong Kong"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Hong Kong"
   },
   {
     "flag": "HU",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/22px-Flag_of_Hungary.svg.png",
-    "name": "Hongaria"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Hongaria"
   },
   {
     "flag": "IS",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/22px-Flag_of_Iceland.svg.png",
-    "name": "Islandia"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Islandia"
   },
   {
     "flag": "IN",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/22px-Flag_of_India.svg.png",
-    "name": "India"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "India"
   },
   {
     "flag": "ID",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/22px-Flag_of_Indonesia.svg.png",
-    "name": "Indonesia"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Indonesia"
   },
   {
     "flag": "IQ",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/22px-Flag_of_Iraq.svg.png",
-    "name": "Irak"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Irak"
   },
   {
     "flag": "IR",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/22px-Flag_of_Iran.svg.png",
-    "name": "Iran"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Iran"
   },
   {
     "flag": "IE",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/22px-Flag_of_Ireland.svg.png",
-    "name": "Irlandia"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Irlandia"
   },
   {
     "flag": "IL",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/22px-Flag_of_Israel.svg.png",
-    "name": "Israel"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Israel"
   },
   {
     "flag": "IT",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/22px-Flag_of_Italy.svg.png",
-    "name": "Italia"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Italia"
   },
   {
     "flag": "JM",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/22px-Flag_of_Jamaica.svg.png",
-    "name": "Jamaika"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Jamaika"
   },
   {
     "flag": "JP",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/22px-Flag_of_Japan.svg.png",
-    "name": "Jepang"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Jepang"
   },
   {
     "flag": "DE",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/22px-Flag_of_Germany.svg.png",
-    "name": "Jerman"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Jerman"
   },
   {
     "flag": "JE",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Flag_of_Jersey.svg/22px-Flag_of_Jersey.svg.png",
-    "name": "Jersey"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Jersey"
   },
   {
     "flag": "NC",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flags_of_New_Caledonia.svg/22px-Flags_of_New_Caledonia.svg.png",
-    "name": "Kaledonia Baru"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Kaledonia Baru"
   },
   {
     "flag": "KH",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/22px-Flag_of_Cambodia.svg.png",
-    "name": "Kamboja"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Kamboja"
   },
   {
     "flag": "CM",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/22px-Flag_of_Cameroon.svg.png",
-    "name": "Kamerun"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Kamerun"
   },
   {
     "flag": "CA",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/22px-Flag_of_Canada.svg.png",
-    "name": "Kanada"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Kanada"
   },
   {
     "flag": "KZ",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/22px-Flag_of_Kazakhstan.svg.png",
-    "name": "Kazakhstan"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Kazakhstan"
   },
   {
     "flag": "KE",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/22px-Flag_of_Kenya.svg.png",
-    "name": "Kenya"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Kenya"
   },
   {
     "flag": "KI",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kiribati.svg/22px-Flag_of_Kiribati.svg.png",
-    "name": "Kiribati"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Kiribati"
   },
   {
     "flag": "KG",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/22px-Flag_of_Kyrgyzstan.svg.png",
-    "name": "Kirgizstan"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Kirgizstan"
   },
   {
     "flag": "CO",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/22px-Flag_of_Colombia.svg.png",
-    "name": "Kolombia"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Kolombia"
   },
   {
     "flag": "KM",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Flag_of_the_Comoros.svg/22px-Flag_of_the_Comoros.svg.png",
-    "name": "Komoro"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Komoro"
   },
   {
     "flag": "CG",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Republic_of_the_Congo.svg/22px-Flag_of_the_Republic_of_the_Congo.svg.png",
-    "name": "Kongo"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Kongo"
   },
   {
     "flag": "CD",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/22px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
-    "name": "Kongo"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Kongo"
   },
   {
     "flag": "KR",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/22px-Flag_of_South_Korea.svg.png",
-    "name": "Korea"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Korea"
   },
   {
     "flag": "KP",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/22px-Flag_of_North_Korea.svg.png",
-    "name": "Korea"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Korea"
   },
   {
     "flag": "CR",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/22px-Flag_of_Costa_Rica.svg.png",
-    "name": "Kosta Rika"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Kosta Rika"
   },
   {
     "flag": "HR",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/22px-Flag_of_Croatia.svg.png",
-    "name": "Kroasia"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Kroasia"
   },
   {
     "flag": "CU",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/22px-Flag_of_Cuba.svg.png",
-    "name": "Kuba"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Kuba"
   },
   {
     "flag": "KW",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/22px-Flag_of_Kuwait.svg.png",
-    "name": "Kuwait"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Kuwait"
   },
   {
     "flag": "LA",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/22px-Flag_of_Laos.svg.png",
-    "name": "Laos"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Laos"
   },
   {
     "flag": "LV",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/22px-Flag_of_Latvia.svg.png",
-    "name": "Latvia"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Latvia"
   },
   {
     "flag": "LB",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/22px-Flag_of_Lebanon.svg.png",
-    "name": "Lebanon"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Lebanon"
   },
   {
     "flag": "LS",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flag_of_Lesotho.svg/22px-Flag_of_Lesotho.svg.png",
-    "name": "Lesotho"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Lesotho"
   },
   {
     "flag": "LR",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Liberia.svg/22px-Flag_of_Liberia.svg.png",
-    "name": "Liberia"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Liberia"
   },
   {
     "flag": "LY",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/22px-Flag_of_Libya.svg.png",
-    "name": "Libya"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Libya"
   },
   {
     "flag": "LI",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/22px-Flag_of_Liechtenstein.svg.png",
-    "name": "Liechtenstein"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Liechtenstein"
   },
   {
     "flag": "LT",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/22px-Flag_of_Lithuania.svg.png",
-    "name": "Lituania"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Lituania"
   },
   {
     "flag": "LU",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/22px-Flag_of_Luxembourg.svg.png",
-    "name": "Luksemburg"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Luksemburg"
   },
   {
     "flag": "MO",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flag_of_Macau.svg/22px-Flag_of_Macau.svg.png",
-    "name": "Makau"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Makau"
   },
   {
     "flag": "MK",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/22px-Flag_of_North_Macedonia.svg.png",
-    "name": "Makedonia"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Makedonia"
   },
   {
     "flag": "MG",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/22px-Flag_of_Madagascar.svg.png",
-    "name": "Madagaskar"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Madagaskar"
   },
   {
     "flag": "MW",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Flag_of_Malawi.svg/22px-Flag_of_Malawi.svg.png",
-    "name": "Malawi"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Malawi"
   },
   {
     "flag": "MY",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/22px-Flag_of_Malaysia.svg.png",
-    "name": "Malaysia"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Malaysia"
   },
   {
     "flag": "MV",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Maldives.svg/22px-Flag_of_Maldives.svg.png",
-    "name": "Maladewa"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Maladewa"
   },
   {
     "flag": "ML",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/22px-Flag_of_Mali.svg.png",
-    "name": "Mali"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Mali"
   },
   {
     "flag": "MT",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/22px-Flag_of_Malta.svg.png",
-    "name": "Malta"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Malta"
   },
   {
     "flag": "IM",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Flag_of_the_Isle_of_Mann.svg/22px-Flag_of_the_Isle_of_Mann.svg.png",
-    "name": "Man"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Man"
   },
   {
     "flag": "MP",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_the_Northern_Mariana_Islands.svg/22px-Flag_of_the_Northern_Mariana_Islands.svg.png",
-    "name": "Mariana Utara"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Mariana Utara"
   },
   {
     "flag": "MA",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/22px-Flag_of_Morocco.svg.png",
-    "name": "Maroko"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Maroko"
   },
   {
     "flag": "MH",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_the_Marshall_Islands.svg/22px-Flag_of_the_Marshall_Islands.svg.png",
-    "name": "Marshall"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Marshall"
   },
   {
     "flag": "MQ",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/22px-Flag_of_France.svg.png",
-    "name": "Martinik"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Martinik"
   },
   {
     "flag": "MR",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Mauritania.svg/22px-Flag_of_Mauritania.svg.png",
-    "name": "Mauritania"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Mauritania"
   },
   {
     "flag": "MU",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/22px-Flag_of_Mauritius.svg.png",
-    "name": "Mauritius"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Mauritius"
   },
   {
     "flag": "YT",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/22px-Flag_of_France.svg.png",
-    "name": "Mayotte"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Mayotte"
   },
   {
     "flag": "MX",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/22px-Flag_of_Mexico.svg.png",
-    "name": "Meksiko"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Meksiko"
   },
   {
     "flag": "FM",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg/22px-Flag_of_the_Federated_States_of_Micronesia.svg.png",
-    "name": "Mikronesia"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Mikronesia"
   },
   {
     "flag": "MD",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/22px-Flag_of_Moldova.svg.png",
-    "name": "Moldova"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Moldova"
   },
   {
     "flag": "EG",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/22px-Flag_of_Egypt.svg.png",
-    "name": "Mesir"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Mesir"
   },
   {
     "flag": "MC",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/20px-Flag_of_Monaco.svg.png",
-    "name": "Monako"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Monako"
   },
   {
     "flag": "UM",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/22px-Flag_of_the_United_States.svg.png",
-    "name": "Kepulauan Terluar Kecil Amerika Serikat"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Kepulauan Terluar Kecil Amerika Serikat"
   },
   {
     "flag": "MN",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Mongolia.svg/22px-Flag_of_Mongolia.svg.png",
-    "name": "Mongolia"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Mongolia"
   },
   {
     "flag": "ME",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/22px-Flag_of_Montenegro.svg.png",
-    "name": "Montenegro"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Montenegro"
   },
   {
     "flag": "MS",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Montserrat.svg/22px-Flag_of_Montserrat.svg.png",
-    "name": "Montserrat"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Montserrat"
   },
   {
     "flag": "MZ",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/22px-Flag_of_Mozambique.svg.png",
-    "name": "Mozambik"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Mozambik"
   },
   {
     "flag": "MM",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/22px-Flag_of_Myanmar.svg.png",
-    "name": "Myanmar"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Myanmar"
   },
   {
     "flag": "NA",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/22px-Flag_of_Namibia.svg.png",
-    "name": "Namibia"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Namibia"
   },
   {
     "flag": "NR",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Nauru.svg/22px-Flag_of_Nauru.svg.png",
-    "name": "Nauru"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Nauru"
   },
   {
     "flag": "CX",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Flag_of_Christmas_Island.svg/22px-Flag_of_Christmas_Island.svg.png",
-    "name": "Natal"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Natal"
   },
   {
     "flag": "NP",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/16px-Flag_of_Nepal.svg.png",
-    "name": "Nepal"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Nepal"
   },
   {
     "flag": "NI",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/22px-Flag_of_Nicaragua.svg.png",
-    "name": "Nikaragua"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Nikaragua"
   },
   {
     "flag": "NE",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/22px-Flag_of_Niger.svg.png",
-    "name": "Niger"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Niger"
   },
   {
     "flag": "NG",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/22px-Flag_of_Nigeria.svg.png",
-    "name": "Nigeria"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Nigeria"
   },
   {
     "flag": "NU",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Niue.svg/22px-Flag_of_Niue.svg.png",
-    "name": "Niue"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Niue"
   },
   {
     "flag": "NF",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Norfolk_Island.svg/22px-Flag_of_Norfolk_Island.svg.png",
-    "name": "Norfolk"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Norfolk"
   },
   {
     "flag": "NO",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/22px-Flag_of_Norway.svg.png",
-    "name": "Norwegia"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Norwegia"
   },
   {
     "flag": "OM",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Oman.svg/22px-Flag_of_Oman.svg.png",
-    "name": "Oman"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Oman"
   },
   {
     "flag": "PK",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/22px-Flag_of_Pakistan.svg.png",
-    "name": "Pakistan"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Pakistan"
   },
   {
     "flag": "PW",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Palau.svg/22px-Flag_of_Palau.svg.png",
-    "name": "Palau"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Palau"
   },
   {
     "flag": "PS",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/22px-Flag_of_Palestine.svg.png",
-    "name": "Palestina"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Palestina"
   },
   {
     "flag": "PA",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/22px-Flag_of_Panama.svg.png",
-    "name": "Panama"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Panama"
   },
   {
     "flag": "CI",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/22px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
-    "name": "Pantai Gading"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Pantai Gading"
   },
   {
     "flag": "PG",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/22px-Flag_of_Papua_New_Guinea.svg.png",
-    "name": "Papua Nugini"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Papua Nugini"
   },
   {
     "flag": "PY",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/22px-Flag_of_Paraguay.svg.png",
-    "name": "Paraguay"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Paraguay"
   },
   {
     "flag": "FR",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/22px-Flag_of_France.svg.png",
-    "name": "Prancis"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Prancis"
   },
   {
     "flag": "TF",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Flag_of_the_French_Southern_and_Antarctic_Lands.svg/22px-Flag_of_the_French_Southern_and_Antarctic_Lands.svg.png",
-    "name": "Prancis Selatan"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Prancis Selatan"
   },
   {
     "flag": "PE",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/22px-Flag_of_Peru.svg.png",
-    "name": "Peru"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Peru"
   },
   {
     "flag": "PN",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_the_Pitcairn_Islands.svg/22px-Flag_of_the_Pitcairn_Islands.svg.png",
-    "name": "Pitcairn"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Pitcairn"
   },
   {
     "flag": "PL",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/22px-Flag_of_Poland.svg.png",
-    "name": "Polandia"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Polandia"
   },
   {
     "flag": "PF",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Flag_of_French_Polynesia.svg/22px-Flag_of_French_Polynesia.svg.png",
-    "name": "Polinesia Prancis"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Polinesia Prancis"
   },
   {
     "flag": "PT",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/22px-Flag_of_Portugal.svg.png",
-    "name": "Portugal"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Portugal"
   },
   {
     "flag": "PR",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_Puerto_Rico.svg/22px-Flag_of_Puerto_Rico.svg.png",
-    "name": "Puerto Riko"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Puerto Riko"
   },
   {
     "flag": "QA",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/22px-Flag_of_Qatar.svg.png",
-    "name": "Qatar"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Qatar"
   },
   {
     "flag": "RE",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/22px-Flag_of_France.svg.png",
-    "name": "Réunion"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Réunion"
   },
   {
     "flag": "RO",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/22px-Flag_of_Romania.svg.png",
-    "name": "Rumania"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Rumania"
   },
   {
     "flag": "RU",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/22px-Flag_of_Russia.svg.png",
-    "name": "Rusia"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Rusia"
   },
   {
     "flag": "RW",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/22px-Flag_of_Rwanda.svg.png",
-    "name": "Rwanda"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Rwanda"
   },
   {
     "flag": "EH",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg/22px-Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg.png",
-    "name": "Sahara Barat"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Sahara Barat"
   },
   {
     "flag": "BL",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/22px-Flag_of_France.svg.png",
-    "name": "Saint-Barthélemy"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Saint-Barthélemy"
   },
   {
     "flag": "SH",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Saint_Helena.svg/22px-Flag_of_Saint_Helena.svg.png",
-    "name": "Saint Helena"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Saint Helena"
   },
   {
     "flag": "KN",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg/22px-Flag_of_Saint_Kitts_and_Nevis.svg.png",
-    "name": "Saint Kitts dan Nevis"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Saint Kitts dan Nevis"
   },
   {
     "flag": "LC",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Saint_Lucia.svg/22px-Flag_of_Saint_Lucia.svg.png",
-    "name": "Saint Lucia"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Saint Lucia"
   },
   {
     "flag": "MF",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/22px-Flag_of_France.svg.png",
-    "name": "Saint Martin (Prancis)"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Saint Martin (Prancis)"
   },
   {
     "flag": "PM",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/22px-Flag_of_France.svg.png",
-    "name": "Saint Pierre dan Miquelon"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Saint Pierre dan Miquelon"
   },
   {
     "flag": "VC",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg/22px-Flag_of_Saint_Vincent_and_the_Grenadines.svg.png",
-    "name": "Saint Vincent dan Grenadines"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Saint Vincent dan Grenadines"
   },
   {
     "flag": "WS",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Samoa.svg/22px-Flag_of_Samoa.svg.png",
-    "name": "Samoa"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Samoa"
   },
   {
     "flag": "AS",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Flag_of_American_Samoa.svg/22px-Flag_of_American_Samoa.svg.png",
-    "name": "Samoa Amerika"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Samoa Amerika"
   },
   {
     "flag": "IO",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_the_Commissioner_of_the_British_Indian_Ocean_Territory.svg/22px-Flag_of_the_Commissioner_of_the_British_Indian_Ocean_Territory.svg.png",
-    "name": "Samudra Hindia Britania"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Samudra Hindia Britania"
   },
   {
     "flag": "SM",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_San_Marino.svg/21px-Flag_of_San_Marino.svg.png",
-    "name": "San Marino"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "San Marino"
   },
   {
     "flag": "ST",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Sao_Tome_and_Principe.svg/22px-Flag_of_Sao_Tome_and_Principe.svg.png",
-    "name": "Sao Tome dan Principe"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Sao Tome dan Principe"
   },
   {
     "flag": "NZ",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/22px-Flag_of_New_Zealand.svg.png",
-    "name": "Selandia Baru"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Selandia Baru"
   },
   {
     "flag": "SN",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/22px-Flag_of_Senegal.svg.png",
-    "name": "Senegal"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Senegal"
   },
   {
     "flag": "RS",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/22px-Flag_of_Serbia.svg.png",
-    "name": "Serbia"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Serbia"
   },
   {
     "flag": "SC",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Seychelles.svg/22px-Flag_of_Seychelles.svg.png",
-    "name": "Seychelles"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Seychelles"
   },
   {
     "flag": "SL",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Sierra_Leone.svg/22px-Flag_of_Sierra_Leone.svg.png",
-    "name": "Sierra Leone"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Sierra Leone"
   },
   {
     "flag": "SG",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/22px-Flag_of_Singapore.svg.png",
-    "name": "Singapura"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Singapura"
   },
   {
     "flag": "CY",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/22px-Flag_of_Cyprus.svg.png",
-    "name": "Siprus"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Siprus"
   },
   {
     "flag": "SI",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/22px-Flag_of_Slovenia.svg.png",
-    "name": "Slovenia"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Slovenia"
   },
   {
     "flag": "SK",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/22px-Flag_of_Slovakia.svg.png",
-    "name": "Slowakia"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Slowakia"
   },
   {
     "flag": "SB",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_the_Solomon_Islands.svg/22px-Flag_of_the_Solomon_Islands.svg.png",
-    "name": "Solomon"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Solomon"
   },
   {
     "flag": "SO",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Somalia.svg/22px-Flag_of_Somalia.svg.png",
-    "name": "Somalia"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Somalia"
   },
   {
     "flag": "ES",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/22px-Flag_of_Spain.svg.png",
-    "name": "Spanyol"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Spanyol"
   },
   {
     "flag": "LK",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/22px-Flag_of_Sri_Lanka.svg.png",
-    "name": "Sri Lanka"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Sri Lanka"
   },
   {
     "flag": "SD",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Sudan.svg/22px-Flag_of_Sudan.svg.png",
-    "name": "Sudan"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Sudan"
   },
   {
     "flag": "SY",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Flag_of_the_United_Arab_Republic_%281958%E2%80%931971%29.svg/22px-Flag_of_the_United_Arab_Republic_%281958%E2%80%931971%29.svg.png",
-    "name": "Suriah"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Suriah"
   },
   {
     "flag": "SR",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/22px-Flag_of_Suriname.svg.png",
-    "name": "Suriname"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Surijawaban.svg/22px-Flag_of_Surijawaban.svg.png",
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Surijawaban"
   },
   {
     "flag": "SJ",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/22px-Flag_of_Norway.svg.png",
-    "name": "Svalbard dan Jan Mayen"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Svalbard dan Jan Mayen"
   },
   {
     "flag": "SE",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/22px-Flag_of_Sweden.svg.png",
-    "name": "Swedia"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Swedia"
   },
   {
     "flag": "CH",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/20px-Flag_of_Switzerland.svg.png",
-    "name": "Swiss"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Swiss"
   },
   {
     "flag": "TW",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/22px-Flag_of_the_Republic_of_China.svg.png",
-    "name": "Taiwan"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Taiwan"
   },
   {
     "flag": "TJ",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/22px-Flag_of_Tajikistan.svg.png",
-    "name": "Tajikistan"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Tajikistan"
   },
   {
+    
     "flag": "CV",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/22px-Flag_of_Cape_Verde.svg.png",
-    "name": "Tanjung Verde"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Tanjung Verde"
   },
   {
     "flag": "TZ",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/22px-Flag_of_Tanzania.svg.png",
-    "name": "Tanzania"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Tanzania"
   },
   {
     "flag": "TH",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/22px-Flag_of_Thailand.svg.png",
-    "name": "Thailand"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Thailand"
   },
   {
     "flag": "TL",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/22px-Flag_of_East_Timor.svg.png",
-    "name": "Timor Leste"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Timor Leste"
   },
   {
     "flag": "CN",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/22px-Flag_of_the_People%27s_Republic_of_China.svg.png",
-    "name": "Tiongkok"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Tiongkok"
   },
   {
     "flag": "TG",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/22px-Flag_of_Togo.svg.png",
-    "name": "Togo"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Togo"
   },
   {
     "flag": "TK",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Flag_of_Tokelau.svg/22px-Flag_of_Tokelau.svg.png",
-    "name": "Tokelau"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Tokelau"
   },
   {
     "flag": "TO",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Tonga.svg/22px-Flag_of_Tonga.svg.png",
-    "name": "Tonga"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Tonga"
   },
   {
     "flag": "TT",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/22px-Flag_of_Trinidad_and_Tobago.svg.png",
-    "name": "Trinidad dan Tobago"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Trinidad dan Tobago"
   },
   {
     "flag": "TN",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/22px-Flag_of_Tunisia.svg.png",
-    "name": "Tunisia"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Tunisia"
   },
   {
     "flag": "TR",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/22px-Flag_of_Turkey.svg.png",
-    "name": "Turki"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Turki"
   },
   {
     "flag": "TM",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Turkmenistan.svg/22px-Flag_of_Turkmenistan.svg.png",
-    "name": "Turkmenistan"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Turkmenistan"
   },
   {
     "flag": "TC",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_the_Turks_and_Caicos_Islands.svg/22px-Flag_of_the_Turks_and_Caicos_Islands.svg.png",
-    "name": "Turks dan Caicos"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Turks dan Caicos"
   },
   {
     "flag": "TV",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tuvalu.svg/22px-Flag_of_Tuvalu.svg.png",
-    "name": "Tuvalu"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Tuvalu"
   },
   {
     "flag": "UG",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/22px-Flag_of_Uganda.svg.png",
-    "name": "Uganda"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Uganda"
   },
   {
     "flag": "UA",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/22px-Flag_of_Ukraine.svg.png",
-    "name": "Ukraina"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Ukraina"
   },
   {
     "flag": "AE",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/22px-Flag_of_the_United_Arab_Emirates.svg.png",
-    "name": "Uni Emirat Arab"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Uni Emirat Arab"
   },
   {
     "flag": "UY",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/22px-Flag_of_Uruguay.svg.png",
-    "name": "Uruguay"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Uruguay"
   },
   {
     "flag": "UZ",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/22px-Flag_of_Uzbekistan.svg.png",
-    "name": "Uzbekistan"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Uzbekistan"
   },
   {
     "flag": "VU",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Vanuatu.svg/22px-Flag_of_Vanuatu.svg.png",
-    "name": "Vanuatu"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Vanuatu"
   },
   {
     "flag": "VA",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_the_Vatican_City.svg/20px-Flag_of_the_Vatican_City.svg.png",
-    "name": "Vatikan"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Vatikan"
   },
   {
     "flag": "VE",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/22px-Flag_of_Venezuela.svg.png",
-    "name": "Venezuela"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Venezuela"
   },
   {
     "flag": "VN",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/22px-Flag_of_Vietnam.svg.png",
-    "name": "Vietnam"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Vietnam"
   },
   {
     "flag": "VI",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_the_United_States_Virgin_Islands.svg/22px-Flag_of_the_United_States_Virgin_Islands.svg.png",
-    "name": "Virgin Amerika Serikat"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Virgin Amerika Serikat"
   },
   {
     "flag": "VG",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Flag_of_the_British_Virgin_Islands.svg/22px-Flag_of_the_British_Virgin_Islands.svg.png",
-    "name": "Virgin Britania Raya"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Virgin Britania Raya"
   },
   {
     "flag": "WF",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/22px-Flag_of_France.svg.png",
-    "name": "Wallis dan Futuna"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Wallis dan Futuna"
   },
   {
     "flag": "YE",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Yemen.svg/22px-Flag_of_Yemen.svg.png",
-    "name": "Yaman"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Yaman"
   },
   {
     "flag": "JO",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/22px-Flag_of_Jordan.svg.png",
-    "name": "Yordania"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Yordania"
   },
   {
     "flag": "GR",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/22px-Flag_of_Greece.svg.png",
-    "name": "Yunani"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Yunani"
   },
   {
     "flag": "ZM",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/22px-Flag_of_Zambia.svg.png",
-    "name": "Zambia"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Zambia"
   },
   {
     "flag": "ZW",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/22px-Flag_of_Zimbabwe.svg.png",
-    "name": "Zimbabwe"
+    "soal": "Bendera Apakah Itu?"
+    "jawaban": "Zimbabwe"
   }
 ]
